@@ -2,6 +2,6 @@
 
 ### 来啦老铁 👋
 - 🔭 I’m currently working on  Lengend
-- 🌱 I’m currently learning Golang & BlockChain
+- 🌱 I’m currently learning Flutter & Golang
 
 
