@@ -4,7 +4,9 @@
         <img alt="" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F09431&width=435&lines=Welcome+to+my+modest+corner">
     </picture>
 </div>
+
 # Skills
+
 <p align="center"> 
 <a href="https://github.com/MacOMNI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacOMNI&langs_count=8&hide=JavaScript,HTML,CSS&layout=compact&theme=algolia" />
