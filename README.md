@@ -18,6 +18,7 @@
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MacOMNI&theme=algolia">
-        <img alt="Shows MacOMNI's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=MacOMNI&theme=flag-india">
-    </picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacOMNI&layout=compact&theme=algolia&hide=JavaScript,HTML,CSS&cache_seconds=86400"
+  />    </picture>
 </div>
