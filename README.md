@@ -21,9 +21,3 @@
         <img alt="Shows MacOMNI's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=MacOMNI&theme=flag-india">
     </picture>
 </div>
-
-# Contribution
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MacOMNI&bg_color=070f2a&color=4eacf8&line=ffffff&point=4eacf8&area=true&area_color=ffffff">
-    <img alt="Shows MacOMNI's GitHub Contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=BreakZero&bg_color=ffffff&color=f09431&line=649b40&point=f09431&area=true&area_color=649b40">
-</picture>
