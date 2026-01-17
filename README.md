@@ -7,13 +7,12 @@
 
 # Skills
 
-<p align="center"> 
-<a href="https://github.com/MacOMNI">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacOMNI&layout=compact&theme=algolia&hide=JavaScript,HTML,CSS&cache_seconds=86400"
-/>
-</a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacOMNI&layout=compact&theme=algolia&hide=JavaScript,HTML,CSS&cache_seconds=86400"
+  />
 </p>
+
 
 <br/>
 <div align="center">
