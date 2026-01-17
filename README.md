@@ -9,7 +9,9 @@
 
 <p align="center"> 
 <a href="https://github.com/MacOMNI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacOMNI&langs_count=8&hide=JavaScript,HTML,CSS&layout=compact&theme=algolia" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacOMNI&layout=compact&theme=algolia&hide=JavaScript,HTML,CSS&cache_seconds=86400"
+/>
 </a>
 </p>
 
